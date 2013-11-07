@@ -1,0 +1,21 @@
+{
+  "name": "findthatplace",
+  "version": "0.0.0",
+  "description": "Find the place you wanna go with the Foursquare Database",
+  "main": "index.html",
+  "authors": [
+    "Mauricio Soares"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.8"
+  }
+}
